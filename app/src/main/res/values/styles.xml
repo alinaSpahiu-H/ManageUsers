@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircularImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <!-- Define stroke color and width for the border -->
+        <item name="strokeColor">@color/green_900</item> <!-- Replace with your desired border color -->
+        <item name="strokeWidth">4dp</item> <!-- Replace with your desired border width -->
+    </style>
+</resources>
