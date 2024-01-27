@@ -51,3 +51,5 @@ public class SplashActivity extends AppCompatActivity {
     }
 
 }
+// Test3 - Hasan.
+// some comments in splash activity for testing purposes.
