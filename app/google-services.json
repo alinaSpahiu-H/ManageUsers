@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019551384912",
+    "project_id": "manage-users-72829",
+    "storage_bucket": "manage-users-72829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019551384912:android:4ff528be60aff522cd9855",
+        "android_client_info": {
+          "package_name": "com.example.manageusers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1HI5jluLtIJWiRFHkkoFHihcOT54zOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
