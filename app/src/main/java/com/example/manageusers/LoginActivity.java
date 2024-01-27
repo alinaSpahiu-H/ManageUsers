@@ -30,3 +30,6 @@ public class LoginActivity extends AppCompatActivity {
 }
 // Test Nr. 1
 // Some Comment for Test Purposes
+
+// Test Nr. 2 - Hasan
+// testing purposes again.
